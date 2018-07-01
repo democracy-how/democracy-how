@@ -57,7 +57,7 @@ Elections are happening in relatively frequent and recurring intervals.
 Etc
 
 
-# Step aside: Why prosperity in science and economics is related to Democracy ? 
+## Step aside: Why prosperity in science and economics is related to Democracy ? 
 
 Science is a search for truth to explain how our world works: creation of theories based on real-world experiments and application of these theories on real-world problems to solve these problems. Scientific research cannot be properly done if people aren’t allowed to spread information freely and if scientists are lying. For example in USSR during 1920-1964 Lysenko suppressed scientists that didn’t agree with his falsified biological theories. Thousands of academics were silenced, sent to concentration camps, and were executed. As a consequence genetics studies in USSR were stagnated with false ideas for decades and didn’t progress till political persecution of geneticists stopped. 
 Capitalism does not have to be associated with Democracy. In fact there are good examples of dictatorial countries where capitalism prosperes, such as China and Singapore. However, Capitalism does prosper in democratic countries due to freedom. When one spends time learning how technical startups become prosperous companies, one clear pattern is seen, innovation is related to freedom to economic activity. If a young company cannot iterate on business ideas and test it in practise, then such company can’t grow. 
@@ -65,17 +65,17 @@ Capitalism does not have to be associated with Democracy. In fact there are good
 
 
 
-Stages of Democratization
+## Stages of Democratization
 
 
 
 
-Teaching democracy
+## Teaching democracy
 
  In a way the generation raised under dictatorship would never be free. Somewhere deep inside this generation is enslaved and traumatized by the regime and societal rules in it. To establish a proper democratic society it is important to educate for Democracy in school and actually as early as in day care. Ideas of respecting the other and understanding the different are cornerstones of democracy. You would be surprised how many societies are not teaching these principles in daycares. For older ages, describing the participation in democratic processes is important. If a person is not participating in elections, demonstrations, writing letters to politicians, supporting newspapers, joining parties, then do not expect the democracy to continue much further in time.
 
 
-Non-violence 
+## Non-violence 
 
 Many promote to lead a fight against dictatorships using non-violent activities. Such activities may work against tyranny regimes which are somewhat moderate or against an occupation by a democratic country. However, it is hard to imagine how non-violence can work under extremely violent regimes such as were Stalinist USSR or the Nazi Third Reich or Pol Pot’s Khmer Rouge movement in Cambodia. Even in regimes that are perceived as not too violent, peaceful resistance may not work. Good example would be the persecution of Falun Gong in China. Even though the Falun Gong movement is entirely peaceful, millions of its members are being violently persecuted in China. That includes torture and organ harvesting from live Falun Gong practitioners.
 
@@ -84,13 +84,13 @@ Peaceful demonstration on the tiananmen square, the killings of Falun Gong, etc.
 
 Add good examples where non-violence worked.
 
-On importance to resist putsches 
+## On importance to resist putsches 
 
 How often putsches happen after a regime change? In a very high frequency. In Spain in 1936 and in 1978, in Russia in 1917, Germany Kapp Putsch of 1920 and Beer Hall Putsch 1923 , 1948 in Venezuela, 1991 in USSR/Russia against Gorbachev's reforms in 1991. It is worth to note that putsches happen not only against a democratic rule, but can happen against any government when this government is weak. To keep the democracy intact it is important to protect democratic bodies against assassination and violence. Body guarding the democratically-elected politicians is important. So is important the ability to work remotely and distribute the power among officials. So that if some officials are getting hit, there is a smooth power transition to be able to resist putsch attempt. Even though the power of the dictatorship governmental bodies should be dismantled, it is important to keep balance in their dismantling. Democracy is based on balance of power. Making too many people that have powerful positions angry will lead to an attempt to remove the democratic governance. The first years of Democracy are unstable due to economic instability and violence inside the population. It is hence advisable to avoid destabilizing the country even further by destroying too many governmental bodies at once. Such move probably won’t accelerate democracy.
 Coups can also be initiated by foreign countries trying to block democratization. Such countries will invest money or even deploy their own soldiers to try to overthrow the new democratic government.  (Example of what US did to Iran when a democratic government was toppled ?)
 
 
-Election of Dictators
+## Election of Dictators
 
 
 It was for the sake of this day that he had first decided to run for the Presidency, a decision which had sent waves of astonishment throughout the Imperial Galaxy --- Zaphod Beeblebrox? President? Not the Zaphod Beeblebrox? Not the President? Many had seen it as a clinching proof that the whole of known creation had finally gone bananas.
@@ -110,16 +110,16 @@ Present Democracies are based on the idea of equal voting rights. Meaning that e
 
 Case study: turkey. Election of Arduan and his continuous drive to undermine democracy
 
-Participate and infiltrate
+## Participate and infiltrate
 
 It is worth to note that many regimes fall when insiders that gained much influence decide to reform the regime. For example both Gobachev and Yeltsin were insiders to the Communist party. Hence, their knowledge of the party, its political processes and people helped them to reform USSR and subsequently Russia. Please note that as individuals regime supporters are not always united, they may decide to follow reformists if they feel the old regime approach is dead. 
 Another example would be to examine how Nikita Khrushchev reformed USSR after Stalin’s death. After Stalin’s death Khrushchev and his close circle of allied politicians quickly jailed or killed politicians that were closely allied to Stalin and his way of government. Only because Khrushchev knew how the political regime worked he was able to reform it (albeit not to a democracy, but to a way less violent regime)
 
-Keeping the government stable
+## Keeping the government stable
 For democracy to survive it is important to keep economic prosperity among the population. In fact, that's a key factor for the survival of any regime. During transition times from dictatorship to democracy the population needs to adjust to new rules that potentially can quickly change. Instability is not healthy for business. In addition, many times dictatorships  collapse after acquiring much debt and this debt is falling on the shoulders of a new democratic country. During dictatorship many working places and resources may be owned by the government and will go through a privatization process leading to job losses and instability. 
 Investing in environment where entrepreneurship can thrive and where it is protected will help establishing the democratic rule. Otherwise, discontent people will try to bring back the old times where they at least could have a bread on their table.
 
-The useful idiots
+## The useful idiots
 The danger of the useful idiots grow as more people stay poor and uneducated about democracy. While violence and chaos may be on the rise, while employment and economy stay low, many people don't have much choice but to potentially help and support anti-democratic organizations that supply them protection and food. 
 Consequently, stability of police, rule of law, food availability, and employment are important cornerstones of democratic rule.
 Case study: the growth of the participants in red army in China after the famous Long march
@@ -133,12 +133,12 @@ There are no easy answers on how to deal with such supporters. Civil wars agains
 
 Case study: Chile and Pinochete’s rule (and his supporters)
 
-On importance of being united
+## On importance of being united
 
 Liberals and Democrats can have many political views that not necessarily agree with each other. This indeed how democracy works: people have opinions, they debate and vote on them. However, it is important to show a united front against dictatorship supporters. Dictatorship supporters will create their own parties or infiltrate democratic onse. It is important then to make sure that intense political disagreements between Democrats won't split the already shaken support of the public. Otherwise, election of suppressive party or leader is inevitable. While Democrats splitting themselves into smaller parties that have a slightly different view, the supporters of authoritarian regime get united under large parties that win the majority in the parliament and hence get an option to promote laws that limit democratic freedom. Alternatively, supporters of authoritarian regime can get much influence in the government, lock out access of democrats from broadcasting platforms, restrict control of jobs and funds by the government and so on.
 
 
-Democracy starts from jail ?
+## Democracy starts from jail ?
 Another important difference between democracies and dictatorships are what people are jailed and prosecuted. 
 In dictatorships people with anti-social personality disorders are allowed to participate in damaging activities with little consequences for them, if they play by the bureaucracy rules of the dictatorship. Meaning: dictatorship may punish a crime like beating people for fun to maintain order on the streets, but allow the same people to beat and torture political dissidents. 
 In Democracy there is an invgersion: there is a set of bureaucratic rules to protect individuals. Whoever steps over them may be prosecuted and jailed. As a consequence people with anti-social personality disorders are more careful to not intimidate the low in democratic regime. They try to abuse people behind the scenes in methods that are hard to prove. Free press gives people opportunity to speak up against influential people that have anti-social personality disorders and provides an opportunity to bring them to trial. 
@@ -148,11 +148,11 @@ On a larger scale, Somalia was torned apart by a fifteen-years-long civil war. C
 
 
 
-The constitution
+## The constitution
 Even though most of the democratic countries have constitution that does not mean that the constitution has to be written right away. In young democracy people may not be sure what they want as they never lived under a democratic regime. In addition, a young democracy can split into several countries (e.g., post-soviet split of USSR). As a consequence, it may be better to draft a set of laws that will evolve with time. After several years when the country is economically and socially stabilized it is possible to decide to move on to a constitution or continue governing without it as being done in UK, Canada, New Zealand, and Israel (all these countries have a common historical connection to the UK governing law). 
 Remark: the idea of constitution was invented when life and technology didn’t change as rapidly as today. In present days the social processes change pretty quickly and hence the idea of a static set of laws that is too hard to change may not be wise anymore. 
 
-Meanwhile, what do the bad guys do?
+## Meanwhile, what do the bad guys do?
 
 To protect the democracy it is wise to spend some time thinking about the opposite side of the “fence”. The people that enjoyed the benefits of authoritarian regime, had high income while confiscating resources of the suppressed population, used to high style of life while others are in dirt, and some potentially enjoyed making others suffer. These people didn't disappear after the fall of the dictatorship. Many of them remain in power. For example, it is not easy to put different governmental employees in charge of a jail. So same people that potentially tortured political dissidents now take care of criminals and arrested supporters of the previous regime. What a convenient mix for networking. 
 Jokes aside, these people are concerned about the following main issues:
@@ -162,7 +162,7 @@ People with anti-social personality use the chaos to enjoy acts of violence
 
 
 
-What can an individual do to promote democracy?
+## What can an individual do to promote democracy?
 
 Join some democratic party. Not necessarily on a federal level. Participate in parties on a city level as well.
 Participate in demonstrations and other social activities that are linked to democracy
@@ -172,5 +172,5 @@ Join country's democratic bodies: e.g., army, police, government, parliament, wo
 Personal security and security of your family and friends is important to protect. In chaotic times of change the police may not get sufficient resources to suppress criminal activity. Being part of voluntary body that keeps peace on the streets may help
 Be part of the Free press. Write articles and create videos about important issues in your region. You don't have to be part of an official news paper staff. Running a blog or a group via social network also helps
 
-
+
 
