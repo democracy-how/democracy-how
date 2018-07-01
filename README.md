@@ -2,7 +2,7 @@
 
 
 1. [Background](#Background)
-2. [What-is-Democracy-and-how-it-starts](#What-is-Democracy-and-how-it-starts)
+2. [What is Democracy and how it starts](#what-is-democracy)
 Step aside: Why prosperity in science and economics is related to Democracy ?
 Stages of Democratization
 Teaching democracy
@@ -32,7 +32,7 @@ There is plenty of material written on how to topple dictatorships, generate rev
 We try to base this book less on our opinions and more on historical events that shaped successful long term transition to democracy.
 
 
-## What-is-Democracy-and-how-it-starts
+## What is Democracy and how it starts <a name="what-is-democracy"></a>
 
 These days if you ask what democracy is, people would start talking to you about elections, the principle of separation of powers, the freedom of speech/religion/assembly/work and so on. However, these topics do not describe the day-to-day life of a person in a democratic society. A person that lives in a democratic society is rarely concerned about these topics, not only because they are given to him, but also because people just don’t think this way in their daily lives. 
 When we breath we don’t analyze how much oxygen gets into our lungs, we don’t count particles of contamination, and we don’t think about how many liters of blood are being pumped through our heart. We just breath. Same about democracy. People just live in it. Even though the above-listed democratic principles are important, they can’t be achieved without individuals in society understanding what democracy is and supporting it. Democracy is a true rule of people (comparing to the lies of Communism). If people do not want the society to be democratic, it just won’t be, no matter if the government tries to be democratic (e.g., treatment of black people in southern US states during the beginning and mid of 20th century). 
