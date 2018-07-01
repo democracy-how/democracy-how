@@ -1,8 +1,7 @@
 # how-to-kill-a-dragon
-how to kill a dragon
 
 
-Background
+[Background](#Background)
 What is Democracy and how it starts
 Step aside: Why prosperity in science and economics is related to Democracy ?
 Stages of Democratization
@@ -22,14 +21,7 @@ What can an individual do to promote democracy?
 
 
 
-
-
-How to protect democracy from putsch and overtake by groups/dictators, etc. Go through examples of how democracies were taken over by Hitler, Lenin, Erdogan, Islamic brotherhood in Egypt, Hamas after election, Belarus Lukashenko, Putin, etc.
-Explain the statistics of Antisocial Personality Disorders which in public are referred to be Psychopaths and Sociopaths which consist of roughly 4% of the population. A combination of genetic and environmental factors. How this percent of population has no remorse and violent and hence leads to taking over societies. How to protect the society against such people and groups that they lead.
-
-
-
-Background
+# Background
 
 Lancelot: This is going to be a very meticulous job. Even worse than embroidering. We have to kill the dragon in each one of them.
 
@@ -63,7 +55,7 @@ Elections are happening in relatively frequent and recurring intervals.
 Etc
 
 
-Step aside: Why prosperity in science and economics is related to Democracy ? 
+# Step aside: Why prosperity in science and economics is related to Democracy ? 
 
 Science is a search for truth to explain how our world works: creation of theories based on real-world experiments and application of these theories on real-world problems to solve these problems. Scientific research cannot be properly done if people aren’t allowed to spread information freely and if scientists are lying. For example in USSR during 1920-1964 Lysenko suppressed scientists that didn’t agree with his falsified biological theories. Thousands of academics were silenced, sent to concentration camps, and were executed. As a consequence genetics studies in USSR were stagnated with false ideas for decades and didn’t progress till political persecution of geneticists stopped. 
 Capitalism does not have to be associated with Democracy. In fact there are good examples of dictatorial countries where capitalism prosperes, such as China and Singapore. However, Capitalism does prosper in democratic countries due to freedom. When one spends time learning how technical startups become prosperous companies, one clear pattern is seen, innovation is related to freedom to economic activity. If a young company cannot iterate on business ideas and test it in practise, then such company can’t grow. 
