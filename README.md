@@ -1,4 +1,4 @@
-# how-to-kill-a-dragon
+# Democracy.how
 
 
 1. [Background](#Background)
