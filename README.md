@@ -1,7 +1,5 @@
 
 
-NOT THE RIGHT REPO. EDIT IT on Democracy-how/Democracy-how repo
-
 # Background
 
 <blockquote>Lancelot: This is going to be a very meticulous job. Even worse than embroidering. We have to kill the dragon in each one of them.
