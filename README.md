@@ -1,6 +1,6 @@
 
-
-# Background
+<details>
+<summary> Background </summary>
 
 <blockquote>Lancelot: This is going to be a very meticulous job. Even worse than embroidering. We have to kill the dragon in each one of them.
 
@@ -23,8 +23,10 @@ Mahatma Gandhi
 By John F Kennedy
 </blockquote>
 
+</details>
 
-# What is Democracy and how it starts ?
+<details>
+<summary> What is Democracy and how it starts ?</summary>
 
 <blockquote>
 'Tis the gift to be simple, 'tis the gift to be free
@@ -74,6 +76,8 @@ More to be added here <!-- add more here →
 Democracy is often confused with freedom. Democracy and freedom are not synonyms, but there is a correlation between them. One can try to measure a freedom. For example, the organization Freedom House created certain criteria to measure freedom in a country. 
 https://freedomhouse.org/report/methodology-freedom-world-2019
 However, it is important to understand that such measurements can’t be considered scientific. Definitions of freedom are subjective and introducing a mathematical index of freedom based on subjective definitions do not make the outcome less subjective. An index of freedom does provide an indication that a country is free only if you agree to the subjective definitions suggested by the Freedom House. Meaning: such definitions may not work for every society that wishes to be democratic, but they may provide good guiding principles for which to strive. 
+
+</details>
 
 
 # The vicious cycle of violent society under dictatorship, feudal system, or anarchy
