@@ -174,13 +174,17 @@ Dictatorship -> crisis - >instability/chaos-> shift in power to temporary govern
 
 <details>
 <summary> # Destruction of democracy </summary>
-Way 1: Destabilization of political power and economic stability -> people become discontent -> radical political power suggests to fix the situation: 
+
+## Way 1: 
+Destabilization of political power and economic stability -> people become discontent -> radical political power suggests to fix the situation: 
 by taking possessions from certain groups of people in the society: let’s robe the rich, let’s kill minorities. (e.g., Fascists in Italy and then Germany)
 By promoting ideals that resonate with the public: communism, fascism, life under certain religious set of beliefs.
 Empty promises of populism
-Way 2:
+
+## Way 2:
 A foreign power takes control over the country as it becomes weak. 
-Way 3:
+
+## Way 3:
 Large wave of immigration changes the democratic perceptions where a country can become less free. Usually happens on a local level in a part of the country where the concentration of immigrants that don’t agree with the democratic rule is influential enough to destabilize the democratic rule of that particular geographical region.
 
 </details>
