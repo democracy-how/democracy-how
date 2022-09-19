@@ -697,7 +697,6 @@ This political party and movement allowed to establish democratic institutions n
 <details>
 <summary> # Peaceful changes vs violent once </summary
 
-…
 
 </details>
 
