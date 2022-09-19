@@ -695,13 +695,13 @@ This political party and movement allowed to establish democratic institutions n
 </details>
 
 <details>
-<summary> # Peaceful changes vs violent once </summary
-
+	<summary> # Peaceful changes vs violent once </summary>
 
 </details>
 
 
 <details>
+	
 <summary> # Democracy doesn’t fit my country's cultural background </summary>
 
 Many people that live in democratic countries seem to forget that their country was also once under a dictatorial control, that people in their country betrayed each other, sent people to concentration camps, tortured, killed, received bribes, and so on. As a consequence many presume that only the Western countries or the societies based on European culture can reach  democracy. However, this is utterly not true. It is worth to remember that just couple of centuries ago European countries were ruled entirely by kings, queens, and other forms of dictators. It is fair to argue that non-European countries that reached democracy were influenced by European ideas. That is indeed true, because the ideas and methods of reaching democracy were developed first by Europeans. In the broad world-wide view there are plenty of non-European countries that reached democratic statehood. Let us take India as an example. Even though the British Empire had a large influence on India, the society and the way of life in India when it became independent from the United Kingdom at 1948 were very different from the society and way of life in UK. In addition, UK did everything it could to suppress democratic movements in India during its occupation. For example, the participants of the Indian National Congress were jailed and threatened.
