@@ -1,6 +1,6 @@
 
-<details>
-<summary> # Background </summary>
+
+ # Background 
 
 <blockquote>Lancelot: This is going to be a very meticulous job. Even worse than embroidering. We have to kill the dragon in each one of them.
 
@@ -8,9 +8,9 @@
 Evgeny Schwartz. The Dragon. 
 </blockquote>
 
-<p> There is plenty of material written on how to topple dictatorships, generate revolutions, and so on. However, it is worth to note that post-revolution societies often live in violent and unstable social environment. Sometimes even more violent and unstable compared to the past times of the deposed dictatorship. 
+There is plenty of material written on how to topple dictatorships, generate revolutions, and so on. However, it is worth to note that post-revolution societies often live in violent and unstable social environment. Sometimes even more violent and unstable compared to the past times of the deposed dictatorship. 
 The outcome of a regime change is often from a dictatorship to anarchy to another dictatorship at best and to a bloody war and genocide at worth (e.g., French revolution, Chinese revolution). Some intermediary steps of some sort of democracy may show up after regime change while the common people on the ground feel that they have less means to feed themselves and they are less secure than they were prior to a revolution.
-	</p>
+	
 	
 This book is dedicated to explain on how to transition from a dictatorship to a democracy without having millions killed, enslaved, and tortured. In addition, this book describes the entire spector of democratization of a society and not limiting itself to discuss solely the initial transition from dictatorship to some preliminary democratic state. Meaning, the transition to democracy is viewed as a constant and potentially never ending change of improvements to how society works on many levels. A transition that isn't viewed as black vs white, but rather as a sequence of changes of all shades of colors.
 
@@ -26,10 +26,10 @@ Mahatma Gandhi
 By John F Kennedy
 </blockquote>
 
-</details>
 
-<details>
-<summary> # What is Democracy and how it starts ?</summary>
+
+
+ # What is Democracy and how it starts ?
 
 <blockquote>
 'Tis the gift to be simple, 'tis the gift to be free
@@ -86,10 +86,10 @@ Democracy is often confused with freedom. Democracy and freedom are not synonyms
 https://freedomhouse.org/report/methodology-freedom-world-2019
 However, it is important to understand that such measurements can’t be considered scientific. Definitions of freedom are subjective and introducing a mathematical index of freedom based on subjective definitions do not make the outcome less subjective. An index of freedom does provide an indication that a country is free only if you agree to the subjective definitions suggested by the Freedom House. Meaning: such definitions may not work for every society that wishes to be democratic, but they may provide good guiding principles for which to strive. 
 
-</details>
 
-<details>
-<summary> # The vicious cycle of violent society under dictatorship, feudal system, or anarchy </summary>
+
+
+ # The vicious cycle of violent society under dictatorship, feudal system, or anarchy 
 
 
 Dictators and party members around them tend to be sociopaths. They drive the country to violence which in terms brings destruction to business and agriculture
@@ -99,11 +99,11 @@ Young men tend to join military/police to be in charge of resource distribution
 In poor countries no money spent on family planning and hence many young kids are born
 Concentration of many young men with low unemployment leads to violence on the street
 
-</details>
 
 
-<details>
-<summary> # Propaganda </summary>
+
+
+ # Propaganda
 
 Dictatorship relies on people’s will to keep it around. It is not just Dictatorship. Any india that sticks in our mind is an idea that was delivered to us somehow. Dictatorship relies on propaganda to keep people engaged in a toxic set of ideas. Hence, people under dictatorial regime are complacent with the regime, because many of them believe in this regime and the ideas behind the regime. E.g., Communism, Nazism, Roman Empire. 
 That is why free speech and freedom of journalism is important. Dictators manipulate facts so that the population feels the dictatorial regime is right. (e.g., article: “How Modern Dictators Survive: Cooptation, Censorship, Propaganda, and Repression”)
@@ -111,7 +111,7 @@ How can you resist propaganda?
 Try to find independent sources of information and help with distribution of truthful information to the public. 
 Distribution of information can be done in many ways: via internet, meetings, underground publications, and so on. 
 
-</details>
+
 
 <details>
 <summary>
