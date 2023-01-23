@@ -405,7 +405,7 @@ We can start from an example on a small scale when during a 2017 police strike i
 On a larger scale, Somalia was torn apart by a fifteen-years-long civil war. Consequently, Somalia became a so called “Failed State” https://en.wikipedia.org/wiki/Failed_state
 
 Police force should receive adequate salary to be able to enforce the law. Police officers put their lives in danger on a daily basis. Low salary leads to police corruption and inability to fight gangsters. With inadequate salary one can expect that the police first would curb to organized crime, can be infiltrated by crime organization, and can also become the prime crime organization by itself. With low salary police officers can start collecting protection money to increase their budget or start running their own underground businesses.
-A good example would be: corruption of local police in Mexico in 2010s and in Russia during the 1990s. <!--Need quotes for police salaries relative to median population salary→>
+A good example would be: corruption of local police in Mexico in 2010s and in Russia during the 1990s. <!--Need quotes for police salaries relative to median population salary-->
 
 Given the above discussion about police, it is important to discuss the BLM movement in US. One of the goals of the BLM movement is to protect afro-american minorities from racial-profiling and violence of the police force. However, BLM officially states that the only solution to this problem is to disband the police altogether. By disbanding the police, the society will be open to anarchy that will slowly be filled with violent groups that can’t be stopped. The interim solution suggested by BLM requires to defund the police. Such approach could work if the funding provided based on intended work capacity to keep the society safe and not based on arbitrary funding cuts to appease demonstrators. 
 One important highlight related to the BLM movement is that if the police is mustrasted by a population of a certain neighborhood, then residents will not report crime to the police and hence democracy can not fully work in such neighborhood; criminal law won’t be enforced. There need to be a balance between the power of the police to enforce the law and its accountability against the citizens of the community so that police doesn’t become corrupt and violent against the people that they were sworn to protect. 
@@ -444,7 +444,7 @@ Case studies: there are good examples where non-violence worked; for example, th
 
 
 
-<!-- need to expand this section →
+<!-- need to expand this section -->
 
 Case studies: example for non-violence where not enough time has passed to know if it is effective or not. E.g., the political life of Aung San Suu Kyi in Burma/Mayanmar. 
 
