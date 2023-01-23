@@ -9,7 +9,7 @@ Evgeny Schwartz. The Dragon.
 </blockquote>
 
 There is plenty of material written on how to topple dictatorships, generate revolutions, and so on. However, it is worth to note that post-revolution societies often live in violent and unstable social environment. Sometimes even more violent and unstable compared to the past times of the deposed dictatorship. 
-The outcome of a regime change is often from a dictatorship to anarchy to another dictatorship at best and to a bloody war and genocide at worth (e.g., French revolution, Chinese revolution). Some intermediary steps of some sort of democracy may show up after regime change while the common people on the ground feel that they have less means to feed themselves and they are less secure than they were prior to a revolution.
+The outcome of a regime change is often from a dictatorship to anarchy to another dictatorship at best and to a bloody war and genocide at worth (e.g., French revolution, Chinese revolution). Some intermediary steps of some sort of democracy may show up after regime change while the common people on the ground feel that they have less means to feed themselves and they are less secure than they were prior to a revolution.</br>
 
 This book is dedicated to explain on how to transition from a dictatorship to a democracy without having millions killed, enslaved, and tortured. In addition, this book describes the entire spector of democratization of a society and not limiting itself to discuss solely the initial transition from dictatorship to some preliminary democratic state. Meaning, the transition to democracy is viewed as a constant and potentially never ending change of improvements to how society works on many levels. A transition that isn't viewed as black vs white, but rather as a sequence of changes of all shades of colors.
 
@@ -40,12 +40,17 @@ Elder Joseph
 </blockquote>
 
 These days if you ask what democracy is, people would start talking to you about elections, the principle of separation of powers, freedom of speech/religion/assembly/work and so on. However, these topics do not describe the day-to-day life of a person in a democratic society. A person that lives in a democratic society is rarely concerned about these topics, not only because they are given to him, but also because people just don’t think this way in their daily lives. 
+	
 When we breath we don’t analyze how much oxygen gets into our lungs, we don’t count particles of contamination, and we don’t think about how many liters of blood are being pumped through our hearts. We just breath. Same about democracy. People just live in it. Even though the above-listed democratic principles are important, they can’t be achieved without individuals in society understanding what democracy is and supporting it. Democracy is a true rule of people (comparing to the lies of Communism). If people do not want the society to be democratic, it just won’t be, no matter if the government tries to be democratic (e.g., treatment of black people in southern US states during the beginning and mid of 20th century). 
+	
 Democracy starts from individuals. People in democratic societies feel free, because they are mainly not restricted by their neighbors to do whatever they would like to as long as they don’t bother their neighbors. To create a democratic society one should start from the population itself and its perception of what freedom is. There are plenty of examples when democracy is proclaimed into existence on a country/federal level, but in effect its democratic ideas do not exist and do not work on a local level. That’s because local people may decide to not cherish democracy. For example, it is not rare in democratic countries to see slums controlled by mafia instead of police where people live under tyranny of drug dealers or terror groups. Even large geographic parts of democratic countries are controlled by tyranny. For example, drug lords in Columbia and Naxalite movement in India. 
+	
 <!-- Add examples where even without mafia the locals don't support democracy -->
+	
 In addition, for democratic law to work it is important that the society supports it. Police, army, courts, prison officers, are all part of the society; they too have families, kids, love partners, relatives; they too have feelings, ambitions, and so on. 
 If someone hits a woman on a street because of a wrong dress code and the rest of the spectators on the street do not intervene to protect her and do not complain to the police or at least to the press afterwards, then it would be hard to maintain women rights of being dressed as they want in such society. No matter how protective the law is, the society and the individuals are responsible to protect it. Police work can not be done if there are no people that are willing to file a complaint against an assault and there are no witnesses to testify that an assault has happened.
 Here is a famous saying may be applied
+	
 <backquote>
  If a tree falls in a forest and no one is around to hear it, did it fall?
 </backquote>
@@ -58,6 +63,7 @@ Here is a famous saying may be applied
 
 
 Good example would be a case of the enrollment of James Meredith into the University of Mississippi. Even though by law James had the right to study in this university, he was black and the year was 1961. James received numerous death threats and local levels of government and university management went into long fight to not allow James to study. At the end the Federal government of US had to appoint Federal marshals to protect James’ life while he was studying at the university. Such heroes as James promote democracy and when there are enough people in society that support such heroes, then the society is democratic. If not, the society cannot be democratic no matter what laws are written on paper. 
+	
 Another good example can be of an Indo-Canadian family based on which a  Documentary "labor of love" was released. The movie discusses the long term abuse of three women when they were young by their family relative. Even though they lived in a late twentieth century democratic Canada, where social workers and police could protect them, the girls didn't complain. They felt they were raised in a culture that promoted women's subservient role. It took them a couple of decades to eventually file a complaint against the perpetrator. Can a society be fully democratic when some parts of it are abused ? Yes, it can, but there is room for improvement. 
 
 
