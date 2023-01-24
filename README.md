@@ -1,6 +1,5 @@
 
-
- # Background 
+# Background 
 
 <blockquote>Lancelot: This is going to be a very meticulous job. Even worse than embroidering. We have to kill the dragon in each one of them.
 
@@ -18,6 +17,7 @@ We try to base this book less on our opinions and more on historical events that
 Lastly, we feel that democracy starts and being maintained by every individual of a society. Consequently, the book explains democratization ideas on a high level and then drills down to suggest strategic actions that are centered on an individual and not a society. Meaning, in this book we concentrate more on the activities that a common person from the street could do to promote the democratization of his/her society. 
 
 In this sense we are closer to the following statements:
+
 <blockquote>
 You must be the change you want to see in the world”
 Mahatma Gandhi
@@ -25,9 +25,6 @@ Mahatma Gandhi
 "Ask not what your country can do for you, ask what you can do for your country."
 By John F Kennedy
 </blockquote>
-
-
-
 
  # What is Democracy and how it starts ?
 
@@ -52,14 +49,14 @@ In addition, for democratic law to work it is important that the society support
 If someone hits a woman on a street because of a wrong dress code and the rest of the spectators on the street do not intervene to protect her and do not complain to the police or at least to the press afterwards, then it would be hard to maintain women rights of being dressed as they want in such society. No matter how protective the law is, the society and the individuals are responsible to protect it. Police work can not be done if there are no people that are willing to file a complaint against an assault and there are no witnesses to testify that an assault has happened.
 Here is a famous saying may be applied
 	
-<backquote>
+<blockquote>
  If a tree falls in a forest and no one is around to hear it, did it fall?
-</backquote>
+</blockquote>
 
  Let’s rephrase it: 
-<backquote>
+<blockquote>
  If an offense happens and no one to discuss and report it and no one to act on its enforcement, can we have a democracy?
-</backquote>
+</blockquote>
 
 
 
@@ -80,7 +77,7 @@ Freedom of other activities, if they are not forbidden by a law.
 All people are equal against the law
 There is separation of power between the government, parliament, and judges. 
 Elections are happening in relatively frequent and recurring intervals. 
-More to be added here <!-- add more here →
+More to be added here <!-- add more here -->
 
 Democracy is often confused with freedom. Democracy and freedom are not synonyms, but there is a correlation between them. One can try to measure a freedom. For example, the organization Freedom House created certain criteria to measure freedom in a country. 
 https://freedomhouse.org/report/methodology-freedom-world-2019
@@ -88,8 +85,7 @@ However, it is important to understand that such measurements can’t be conside
 
 
 
-
- # The vicious cycle of violent society under dictatorship, feudal system, or anarchy 
+# The vicious cycle of violent society under dictatorship, feudal system, or anarchy 
 
 
 Dictators and party members around them tend to be sociopaths. They drive the country to violence which in terms brings destruction to business and agriculture
@@ -102,15 +98,14 @@ Concentration of many young men with low unemployment leads to violence on the s
 
 
 
-
- # Propaganda
+# Propaganda
 
 Dictatorship relies on people’s will to keep it around. It is not just Dictatorship. Any india that sticks in our mind is an idea that was delivered to us somehow. Dictatorship relies on propaganda to keep people engaged in a toxic set of ideas. Hence, people under dictatorial regime are complacent with the regime, because many of them believe in this regime and the ideas behind the regime. E.g., Communism, Nazism, Roman Empire. 
 That is why free speech and freedom of journalism is important. Dictators manipulate facts so that the population feels the dictatorial regime is right. (e.g., article: “How Modern Dictators Survive: Cooptation, Censorship, Propaganda, and Repression”)
 How can you resist propaganda? 
 Try to find independent sources of information and help with distribution of truthful information to the public. 
 Distribution of information can be done in many ways: via internet, meetings, underground publications, and so on. 
-
+.
 
 
 
@@ -381,7 +376,7 @@ If you have children, but live under dictatorship, try to find schools oriented 
 
 Art has a crucial role in teaching and propaganda. Dictatorial states use art to promote their own ideas. 
 
-In ancient times, art and architecture were frequently utilized as a means of promoting dictatorial ideologies and displaying the power of those in charge. For example, great monuments in Rome were promoting the greatness of the dictatorial regime of Roman emperors. In Egypt, the grand scale and impressive design of pyramids could be seen as a way of promoting the wealth and power of the ruling classes, as the construction of such elaborate structures would have required significant resources. In Spain, the Inquisition often used art as a means of propaganda to support its goals and ideals. This might include depictions of saints and other religious figures, as well as images that sought to glorify the Inquisition and its activities. In some cases, art was also used as a means of warning or intimidation, with images of torture and punishment being used to deter people from engaging in non-conforming behaviors. The use of art as propaganda during the Spanish Inquisition was meant to both promote the values of the organization and to exert control over the beliefs and actions of the population.
+In ancient times, art and architecture were frequently utilized as a means of promoting dictatorial ideologies and displaying the power of those in charge. For example, great monuments in Rome were promoting the greatness of the dictatorial regime of Roman emperors. In Egypt, the grand scale and impressive design of pyramids could be seen as a way of promoting the wealth and power of the ruling classes, as the construction of such elaborate structures would have required significant resources. In Spain, the Inquisition often used art as a means of propaganda to support its goals and ideals. This might include depictions of saints and other religious figures, as well as images that sought to glorify the Inquisition and its activities. In some cases, art was also used as a means of warning or intimidation, with images of torture and punishment being used to deter people from engaging in non-conforming behaviors. The use of art as propaganda during the Spanish Inquisition was meant to both promote the values of the organization and to exert control over the beliefs and actions of the population..
 
 It is no surprise then that all dictatorial regimes of the twenties century used art as propaganda: in Nazi Reich, in the Fascist countries, in Communist countries and during the Showa dictatorial period in Japan. 
 Dictatorial states control art to ensure it doesn’t promote ideas against the state. In addition, artistic work is diverted forcefully to ensure that many artists promote the ideas of a particular dictatorship.
@@ -449,62 +444,8 @@ Case studies: there are good examples where non-violence worked; for example, th
 Case studies: example for non-violence where not enough time has passed to know if it is effective or not. E.g., the political life of Aung San Suu Kyi in Burma/Mayanmar. 
 
 
- # History of revolutions/rebellions and their outcome
 
-History records are full with violent conflicts. The table below deals only with revolutions that tried to establish a more democratic society. Please take into account that other conflicts during these same historic period are not part of this table. The goal of this table is to establish statistics about how violent rebellion may lead to one of the three following:
-A more democratic state
-A more violent state
-No change
-
-year
-country
-goals
-casualties
-outcome
-1765-1783
-USA
-To establish a democratic society
-
-
-Land owners got voting rights, separation from UK monarchy.
-Afro-americans were left as slaves and women didn’t get voting rights. However, such freedom rights were among the most progressive in the world. 
-
-
-France
-
-
-
-Latinn American wars for independence
-
-
-
-1850-1864
-Taiping Rebellion in China
-To create a new state where people subverted to a christian cult. 
-In reality, the leader was a typical dictator 
-20-70 million people
-It was typical for both parties: the rebels and the supporters of the emperor to slaughter civilians in mass murder attacks. 
-Emperor supporters took over the country
-1911-1912
-Chinese revolution
-To remove the emperial rule and transfer Chinese society to a more modern state
-
-
-The immediate outcome has transformed China into a feudal net of small states controlled by war lords. Long term outcome: the wars between the warlords and the corruption created a condition for communistic groups to rise and eventually take control over the country. 
-1916-1917
-Russian revolution
-In first the revolution removed the tzar fro power and established a democratic, capitalistic government. However, the second part of the revolution was done by Bolsheviks that promoted communism. 
-8 million. Most of them civilians that starved without food
-Communistic USSR government that was quickly converted to brutal dictatorship. Under communism millions perished
-
-
-Indian revolution 
-
-
-
-A country that reach rebelion is already an unhealthy country where food is scarce and where many people don’t have a stable future. Under such circumstances there will be many rebellious groups with different agendas. If there is no opportunity to reach a compromise between the parties, a bloody civil war will erupt. 
-
- # On importance to resist putsches  
+# On importance to resist putsches  
 
 How often putsches happen after a regime change? In a very high frequency. In Spain in 1936 and in 1978, in Russia in 1917, Germany Kapp Putsch of 1920 and Beer Hall Putsch 1923 , 1948 in Venezuela, 1991 in USSR/Russia against Gorbachev's reforms. It is worth to note that putsches happen not only against a democratic rule, but can happen against any government when this government is weak. To keep the democracy intact it is important to protect democratic bodies against assassination and violence. Body guarding the democratically-elected politicians is important. So is important the ability to work remotely and distribute the power among officials. So that if some officials are getting hit, there is a smooth power transition to yet another democratic representative to be able to resist putsch attempt. 
 
