@@ -19,11 +19,13 @@ Lastly, we feel that democracy starts and being maintained by every individual o
 In this sense we are closer to the following statements:
 
 <blockquote>
-You must be the change you want to see in the world”
+You must be the change you want to see in the world
 Mahatma Gandhi
+</blockquote>
 
-"Ask not what your country can do for you, ask what you can do for your country."
-By John F Kennedy
+<blockquote>
+Ask not what your country can do for you, ask what you can do for your country
+John F Kennedy
 </blockquote>
 
 # What is Democracy and how it starts ?
@@ -39,13 +41,13 @@ Elder Joseph
 
 These days if you ask what democracy is, people would start talking to you about elections, the principle of separation of powers, freedom of speech/religion/assembly/work and so on. However, these topics do not describe the day-to-day life of a person in a democratic society. A person that lives in a democratic society is rarely concerned about these topics, not only because they are given to him, but also because people just don’t think this way in their daily lives. 
 	
-When we breath we don’t analyze how much oxygen gets into our lungs, we don’t count particles of contamination, and we don’t think about how many liters of blood are being pumped through our hearts. We just breath. Same about democracy. People just live in it. Even though the above-listed democratic principles are important, they can’t be achieved without individuals in society understanding what democracy is and supporting it. Democracy is a true rule of people (comparing to the lies of Communism). If people do not want the society to be democratic, it just won’t be, no matter if the government tries to be democratic (e.g., treatment of black people in southern US states during the beginning and mid of 20th century). 
+When we breath we don’t analyze how much oxygen gets into our lungs, we don’t count particles of contamination, and we don’t think about how many liters of blood are being pumped through our hearts. We just breath. Same about democracy. People just live in it. Even though the above-listed democratic principles are important, they can’t be achieved without individuals in society understanding what democracy is and supporting it. Democracy is a true rule of people (comparing to the lies of Communism). If people do not want the society to be democratic, it just won’t be, no matter if the government tries to be democratic (e.g., treatment of African-Americans in the Southern US states during the beginning and mid of 20th century). 
 	
-Democracy starts from individuals. People in democratic societies feel free, because they are mainly not restricted by their neighbors to do whatever they would like to as long as they don’t bother their neighbors. To create a democratic society one should start from the population itself and its perception of what freedom is. There are plenty of examples when democracy is proclaimed into existence on a country/federal level, but in effect its democratic ideas do not exist and do not work on a local level. That’s because local people may decide to not cherish democracy. For example, it is not rare in democratic countries to see slums controlled by mafia instead of police where people live under tyranny of drug dealers or terror groups. Even large geographic parts of democratic countries are controlled by tyranny. For example, drug lords in Columbia and Naxalite movement in India. 
+Democracy starts from individuals. People in democratic societies feel free, because they are mainly not restricted by their neighbors. Not restricted to do whatever they would like to as long as they don’t bother their neighbors. To create a democratic society one should start from the population itself and its perception of what freedom is. There are plenty of examples when democracy is proclaimed into existence on a country/federal level, but in effect its democratic ideas do not exist and do not work on a local level. That’s because local people may decide to not cherish democracy. For example, it is not rare in democratic countries to see slums controlled by mafia instead of police where people live under tyranny of drug dealers or terror groups. Even large geographic parts of democratic countries are controlled by tyranny. For example, drug lords in Columbia and Naxalite movement in India. 
 	
 <!-- Add examples where even without mafia the locals don't support democracy -->
 	
-In addition, for democratic law to work it is important that the society supports it. Police, army, courts, prison officers, are all part of the society; they too have families, kids, love partners, relatives; they too have feelings, ambitions, and so on. 
+In addition, for democratic law to work it is important that the society supports it. Politicians, clercks, police, army, courts, prison officers, are all part of the society; they too have families, kids, love partners, relatives; they too have feelings, ambitions, and so on. 
 If someone hits a woman on a street because of a wrong dress code and the rest of the spectators on the street do not intervene to protect her and do not complain to the police or at least to the press afterwards, then it would be hard to maintain women rights of being dressed as they want in such society. No matter how protective the law is, the society and the individuals are responsible to protect it. Police work can not be done if there are no people that are willing to file a complaint against an assault and there are no witnesses to testify that an assault has happened.
 Here is a famous saying may be applied
 	
@@ -65,9 +67,25 @@ Good example would be a case of the enrollment of James Meredith into the Univer
 Another good example can be of an Indo-Canadian family based on which a  Documentary "labor of love" was released. The movie discusses the long term abuse of three women when they were young by their family relative. Even though they lived in a late twentieth century democratic Canada, where social workers and police could protect them, the girls didn't complain. They felt they were raised in a culture that promoted women's subservient role. It took them a couple of decades to eventually file a complaint against the perpetrator. Can a society be fully democratic when some parts of it are abused ? Yes, it can, but there is room for improvement. 
 
 
-But let’s step aside for a minute. What exactly should these so called heroes defend? What is democracy and how does it work ? For the purpose of understanding the ideas described in this book it would be nice to define what Democracy is and how the authors of this text perceive it. 
+But let’s step aside for a minute. What exactly should the so called democracy-heroes defend? What is democracy and how does it work ? For the purpose of understanding the ideas described in this book it would be nice to define what Democracy is and how the authors of this text perceive it. 
 
-There are several parts for modern democracy:
+### Let's define what democracy is NOT
+
+1. Democracy is not a "freedom for all type of life" for individuals in a society. That would be anarchy. Freedoms aren't always good. For example, some men enjoy violence on dark streets: sexual abuse, killings, robbery. Giving them freedom to do it isn't a democracy. Therefore, freedoms have to be defined and restricted to something that a society agrees is good for most of us.  
+2. Democracy is not about treating all people in a fair way. Yes, most democracies have rules about equality before the law. However, there is no equality in other aspects of democratic life. Treating people the same way would be an ideal Communistic society, where same amount of capital is distrubuted per person and hence a highly controlled society. If a society wants freedoms, then an inherent consequence is that some people in such a society may use the chance to make more money. Other people may choose to live less entrepreneurial life style and concentrate more on phylosophy, science, and art.  
+3. Democracy is not about "free-for-all": human rights do not include free education, free medicine, free food, free housing. There are plenty of countries that provide all the mentioned above items to all of its citizens, but due to the agreement of the society to do it via laws. It isn't a must-have that a democratic country would do it. 
+4. Democracy is not a rule of the people. Modern democracies aren't direct democracies. People elect officials and these officials act according to what they see fit. However, citizens have direct influence on the democracy of their country by acting on their own.
+
+### There are several parts for modern democracy
+
+- Freedom of business, enterprenuarship, open any business you want, ability to switch jobs, choose a profession. Such freedoms are important to be able to have productive economy and ability to live a prosperous life as an individual in a democratic society. 
+- The right for ownership: the ability to declare that certain house or business is your. So that you don't have to share your posetions with others. That in turn implies protection from theft. 
+- Freedom of speach and expression. So that individuals can exchange information, express thier opinion and raise their voice. This freedom is important to keep truth in the society so that people can exchange true information. This freedom also give the rights to freedom of press and journalism so that corraption, violence, and unlawful activities can be expaused. 
+- Freedom of activity. Ability to do what you want as long as you don't opress other people around you. In a democratic society, individuals are free to make their own choices about how they live their lives, so long as those choices do not infringe upon the rights of others or violate the laws of the land. This freedom of activity is essential for allowing individuals to pursue their own interests, express their individuality, and contribute to the overall prosperity and well-being of society.
+
+
+
+
 The Universal Declaration of Human Rights defines the rights of person in a democracy. For example:
 Freedom of expression (speech, writings, art, science, religion, sexual orientation, etc)
 Freedom of geographical movement 
@@ -85,7 +103,6 @@ However, it is important to understand that such measurements can’t be conside
 
 
 # The vicious cycle of violent society under dictatorship, feudal system, or anarchy 
-
 
 Dictators and party members around them tend to be sociopaths. They drive the country to violence which in terms brings destruction to business and agriculture
 In a country with no jobs and no food people survive by being more violent: fighting for jobs and food, stealing, looting
@@ -108,6 +125,7 @@ Distribution of information can be done in many ways: via internet, meetings, un
 
 
 # Anarchy and vacuum in power 
+
 In physics when the air is taken out of a volume a new air will come in from the surrounding. Similar to that there is no vacuum in organized power. There are always people energetic-enough  who are organized on street-level, neighborhood level, city-level, province-level and so on. There are always multiple groups of organizations: based on profession, sex, personal interests, politics, sports, religion, and even just pure hate. There are always some kind of organizations that unite people. And the people at the top of these organization are hungry for power. Sometimes because they have antisocial disorder, but sometimes because they feel a need to solve their own problems, in rare cases some of them want to do something good. 
 In cases where central regime fallen, these organizations will start to unite people around them. Eventually several of these organizations will form dominant parties/powers. If these parties are strong enough, they will form a new regime. If one of them particularly strong enough, it will form a dictatorial regime. If non of these parties are strong enough to form a strong federal state control, don’t worry. There are always similar groups from neighboring countries that are willing to invade. And lastl;y if the invasion isn’t implemented, the parties collide against each other into civil unrest and war.
 
@@ -122,6 +140,7 @@ Enlist in organizations that influence local politics. Don’t count on someone 
 
 
 # Evolution of human psychology
+
 To understand why a society follows certain political trends, it is important to understand how human population evolved with time. We can’t deny the fact that major wars and conquests affected the structure of our society: some large groups of people were virtually eliminated, whereas other groups became more numerous. Examples would be numerous genocides that even now continue to happen every ten years. Consequently, individuals from societies with certain morals and knowledge became more prevalent. A trait such as violence played a major role. Societies that considered extermination and enslavement as legitimate tools, thrived in conquered land. Societies that could organize in large groups and follow leaders were able to amass large armies, acquire new technologies and take over other societies.
 It is easy to see then why humans are so violent: there was a selection toward this direction. Societies with individuals that were not violent enough were exterminated by societies with a more violent individuals. 
 
