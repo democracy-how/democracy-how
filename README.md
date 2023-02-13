@@ -28,7 +28,7 @@ Ask not what your country can do for you, ask what you can do for your country
 John F Kennedy
 </blockquote>
 
-# What is Democracy and how it starts ?
+# What is Democracy and how it starts?
 
 <blockquote>
 'Tis the gift to be simple, 'tis the gift to be free
@@ -47,9 +47,10 @@ Democracy starts from individuals. People in democratic societies feel free, bec
 	
 <!-- Add examples where even without mafia the locals don't support democracy -->
 	
-In addition, for democratic law to work it is important that the society supports it. Politicians, clercks, police, army, courts, prison officers, are all part of the society; they too have families, kids, love partners, relatives; they too have feelings, ambitions, and so on. 
-If someone hits a woman on a street because of a wrong dress code and the rest of the spectators on the street do not intervene to protect her and do not complain to the police or at least to the press afterwards, then it would be hard to maintain women rights of being dressed as they want in such society. No matter how protective the law is, the society and the individuals are responsible to protect it. Police work can not be done if there are no people that are willing to file a complaint against an assault and there are no witnesses to testify that an assault has happened.
-Here is a famous saying may be applied
+In addition, for democratic law to work, it is important that a society supports it. Politicians, clerks, police, army, courts, and prison officers, are all part of the society; they too have families, kids, love partners, relatives; they too have feelings, ambitions, and so on. 
+If someone hits a woman on a street because of a wrong dress code and the rest of the spectators on the street do not intervene to protect her and do not complain to the police or at least to the press afterward, then it would be hard to maintain women rights of being dressed as they want in such society. No matter how protective the law is, a society and its individuals are responsible to protect it. Police work can not be done if there are no people that are willing to file a complaint against an assault and there are no witnesses to testify that an assault has happened.
+
+Here is a famous saying that may be applied
 	
 <blockquote>
  If a tree falls in a forest and no one is around to hear it, did it fall?
@@ -74,30 +75,38 @@ But let’s step aside for a minute. What exactly should the so called democracy
 1. Democracy is not a "freedom for all type of life" for individuals in a society. That would be anarchy. Freedoms aren't always good. For example, some men enjoy violence on dark streets: sexual abuse, killings, robbery. Giving them freedom to do it isn't a democracy. Therefore, freedoms have to be defined and restricted to something that a society agrees is good for most of us.  
 2. Democracy is not about treating all people in a fair way. Yes, most democracies have rules about equality before the law. However, there is no equality in other aspects of democratic life. Treating people the same way would be an ideal Communistic society, where same amount of capital is distrubuted per person and hence a highly controlled society. If a society wants freedoms, then an inherent consequence is that some people in such a society may use the chance to make more money. Other people may choose to live less entrepreneurial life style and concentrate more on phylosophy, science, and art.  
 3. Democracy is not about "free-for-all": human rights do not include free education, free medicine, free food, free housing. There are plenty of countries that provide all the mentioned above items to all of its citizens, but due to the agreement of the society to do it via laws. It isn't a must-have that a democratic country would do it. 
-4. Democracy is not a rule of the people. Modern democracies aren't direct democracies. People elect officials and these officials act according to what they see fit. However, citizens have direct influence on the democracy of their country by acting on their own.
+4. Democracy is not a rule of the people. Modern democracies aren't direct democracies. People elect officials and these officials act according to what they see fit. However, citizens have direct influence on the democracy of their country by acting on their own. We will discuss further why democracy is mostly not about politicians. 
 
-### There are several parts for modern democracy
+
+### So what democracy is?
+
+In this book, we will describe democracy as a state of a society. By society we mean all individuals and by state we mean all parts of their life. It includes all parts of life: politics, economy, science, education, art, medicine, army, busineses, and so on and so on. It includes families and children, women and men, old and young. 
+It is wrong to assume that democracy is only a political state. Society as a whole affects what happens in politics and politics affects what happens to the society. This is true not only in democratic countries, but also in dictatorships.  
+
+### There are several parts of modern democracy
+
+Freedoms, Rights, Obligations, Duties, Responsabilities
 
 - Freedom of business, enterprenuarship, open any business you want, ability to switch jobs, choose a profession. Such freedoms are important to be able to have productive economy and ability to live a prosperous life as an individual in a democratic society. 
-- The right for ownership: the ability to declare that certain house or business is your. So that you don't have to share your posetions with others. That in turn implies protection from theft. 
-- Freedom of speach and expression. So that individuals can exchange information, express thier opinion and raise their voice. This freedom is important to keep truth in the society so that people can exchange true information. This freedom also give the rights to freedom of press and journalism so that corraption, violence, and unlawful activities can be expaused. 
+- The right for ownership: the ability to declare that certain house or business is yours. So that you don't have to share your possessions with others. That in turn implies protection from theft. 
+- Freedom of speach and expression. So that individuals can exchange information, express thier opinion and raise their voices. This freedom is important to keep truth in the society so that people can exchange true information. This freedom also give the rights to freedom of press and journalism so that corraption, violence, and unlawful activities can be expaused. 
 - Freedom of activity. Ability to do what you want as long as you don't opress other people around you. In a democratic society, individuals are free to make their own choices about how they live their lives, so long as those choices do not infringe upon the rights of others or violate the laws of the land. This freedom of activity is essential for allowing individuals to pursue their own interests, express their individuality, and contribute to the overall prosperity and well-being of society.
+- Freedom of geographical movement: the right to live, work, and travel in any part of a country and to get in/out of its borders. This right directly relates to freedom of activity and freedom of business. 
+- Freedom over your own body and as an outcome: freedom from slavery and forced marriage
+- Right to vote for and elect representatives
+- Right to be elected as an official 
+
+- Obligation to obey the law: Following local, state, and national laws.
+- Duty to rescue. Individuals have a responsibility to assist someone who is in imminent danger, if it is safe and feasible to do so. 
+- Obligation to report a serious crime, such as murder or child abuse.  
+- Obligation to pay taxes, so that governmental bodies can be sustained and provide services 
+- Obligation of serving on a jury: Participating in the legal system by serving as a juror when called upon.
+- Obligation to defend the country in times of crisis. In some countries that may include mandatory army service and a military draft in times of war. 
+
+- Responsability to vote, so that the democratic process can work. In some countries voting is mandatory 
 
 
-
-
-The Universal Declaration of Human Rights defines the rights of person in a democracy. For example:
-Freedom of expression (speech, writings, art, science, religion, sexual orientation, etc)
-Freedom of geographical movement 
-Freedom over your own body
-Freedom of work, enterprise, and commerce.
-Freedom of other activities, if they are not forbidden by a law. 
-All people are equal against the law
-There is separation of power between the government, parliament, and judges. 
-Elections are happening in relatively frequent and recurring intervals. 
-More to be added here <!-- add more here -->
-
-Democracy is often confused with freedom. Democracy and freedom are not synonyms, but there is a correlation between them. One can try to measure a freedom. For example, the organization Freedom House created certain criteria to measure freedom in a country. 
+Given the above long lists of ffreedoms, democracy is often confused with absolute freedom for everything which is anarchy. Democracy and freedom are not synonyms, but there is a correlation between them. One can try to measure a freedom. For example, the organization Freedom House created certain criteria to measure freedom in a country. 
 https://freedomhouse.org/report/methodology-freedom-world-2019
 However, it is important to understand that such measurements can’t be considered scientific. Definitions of freedom are subjective and introducing a mathematical index of freedom based on subjective definitions do not make the outcome less subjective. An index of freedom does provide an indication that a country is free only if you agree to the subjective definitions suggested by the Freedom House. Meaning: such definitions may not work for every society that wishes to be democratic, but they may provide good guiding principles for which to strive. 
 
