@@ -106,9 +106,7 @@ Freedoms, Rights, Obligations, Duties, Responsabilities
 - Responsability to vote, so that the democratic process can work. In some countries voting is mandatory 
 
 
-Given the above long lists of ffreedoms, democracy is often confused with absolute freedom for everything which is anarchy. Democracy and freedom are not synonyms, but there is a correlation between them. One can try to measure a freedom. For example, the organization Freedom House created certain criteria to measure freedom in a country. 
-https://freedomhouse.org/report/methodology-freedom-world-2019
-However, it is important to understand that such measurements can’t be considered scientific. Definitions of freedom are subjective and introducing a mathematical index of freedom based on subjective definitions do not make the outcome less subjective. An index of freedom does provide an indication that a country is free only if you agree to the subjective definitions suggested by the Freedom House. Meaning: such definitions may not work for every society that wishes to be democratic, but they may provide good guiding principles for which to strive. 
+Given the above long lists of ffreedoms, democracy is often confused with absolute freedom for everything which is anarchy. Democracy and freedom are not synonyms, but there is a correlation between them. One can try to measure a freedom. For example, the organization Freedom House [created certain criteria](https://freedomhouse.org/report/methodology-freedom-world-2019) to measure freedom in a country. However, it is important to understand that such measurement can’t be considered scientific. Definitions of freedom are subjective and introducing a mathematical index of freedom based on subjective definitions do not make the outcome less subjective. An index of freedom does provide an indication that a country is free only if you agree to the subjective definitions suggested by the Freedom House. Meaning: such definitions may not work for every society that wishes to be democratic, but they may provide good guiding principles for which to strive. 
 
 
 # The vicious cycle of violent society under dictatorship, feudal system, or anarchy 
@@ -169,7 +167,7 @@ Increased freedom in business activity and trade
 Increase in education of all forms of sciences, engineering, arts, philosophy, etc.
 Increase of personal freedoms 
 
-For initial relatively bloodless transition from dictatorship to democracy the following conditions may need to be applied
+For an initial relatively bloodless transition from dictatorship to democracy the following conditions may need to be applied
 
 Broad agreement within different parts of a society that a democratization change is needed. Or at least tiredness from an existing state of affairs
 Willingness of large portion of the population to support and maintain democracy on a personal level. E.g., respect other people, protect democratization, spend effort and budget on politics, ….
@@ -214,7 +212,7 @@ Further on this topic is expanded by a philosopher Karl Popper
 Scientific research cannot be properly done if people aren’t allowed to spread information freely and if scientists are lying. For example in USSR during 1920-1964 Lysenko suppressed scientists that didn’t agree with his falsified biological theories. Thousands of academics were silenced, sent to concentration camps, and were executed. As a consequence genetics studies in USSR were stagnated with false ideas for decades and didn’t progress till political persecution of geneticists stopped. 
 Presently the scientific process in democratic countries is free. However, the access to scientific articles to the general public requires payment even though most of the scientific research is funded by the public via taxation.
 
-Capitalism does not have to be associated with Democracy. In fact there are good examples of dictatorial countries where capitalism prosperes, such as China and Singapore. However, Capitalism does prosper in democratic countries due to freedom. When one spends time learning how technical startups become prosperous companies, one clear pattern is seen, innovation is related to freedom of economic activity. If a young company cannot iterate on business ideas and test them in practise, then such company can’t grow. 
+Capitalism does not have to be associated with Democracy. Infact there are good examples of dictatorial countries where capitalism prospers, such as China and Singapore. However, Capitalism does prosper in democratic countries due to freedom. When one spends time learning how technical startups become prosperous companies, one clear pattern is seen, innovation is related to freedom of economic activity. If a young company cannot iterate on business ideas and test them in practise, then such company can’t grow. 
 
 # Economic base of democratization 
 
@@ -473,9 +471,13 @@ Case studies: there are good examples where non-violence worked; for example, th
 
 Case studies: example for non-violence where not enough time has passed to know if it is effective or not. E.g., the political life of Aung San Suu Kyi in Burma/Mayanmar. 
 
+# Non-violent restistance via economic boycotts
+
+Eevery regime is being run using budgets and money. Even the most corrupted regime has to pay salaries and provide other benefits to its supporters. To change, build, create something: money is needed. To restrict a democracy, a "law" enforcement system is needed: police, army, secret agencies, jails. The employes of these organizations aren't working for free. They all benefit from the corrupted regime. 
+In addition, every government relies on the collection of taxes. Corrupted governments also rely on robbing corporate entities and on collecting money via non-profits, for example, churches. 
 
 
-# On importance to resist putsches  
+# On the importance to resist putsches  
 
 How often putsches happen after a regime change? In a very high frequency. In Spain in 1936 and in 1978, in Russia in 1917, Germany Kapp Putsch of 1920 and Beer Hall Putsch 1923 , 1948 in Venezuela, 1991 in USSR/Russia against Gorbachev's reforms. It is worth to note that putsches happen not only against a democratic rule, but can happen against any government when this government is weak. To keep the democracy intact it is important to protect democratic bodies against assassination and violence. Body guarding the democratically-elected politicians is important. So is important the ability to work remotely and distribute the power among officials. So that if some officials are getting hit, there is a smooth power transition to yet another democratic representative to be able to resist putsch attempt. 
 
