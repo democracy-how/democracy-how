@@ -471,10 +471,15 @@ Case studies: there are good examples where non-violence worked; for example, th
 
 Case studies: example for non-violence where not enough time has passed to know if it is effective or not. E.g., the political life of Aung San Suu Kyi in Burma/Mayanmar. 
 
-# Non-violent restistance via economic boycotts
+# Non-violent resistance via economic boycott
 
-Eevery regime is being run using budgets and money. Even the most corrupted regime has to pay salaries and provide other benefits to its supporters. To change, build, create something: money is needed. To restrict a democracy, a "law" enforcement system is needed: police, army, secret agencies, jails. The employes of these organizations aren't working for free. They all benefit from the corrupted regime. 
+Every regime is being run using budgets and money. Even the most corrupted regime has to pay salaries and provide other benefits to its supporters. To change, build, and create money is needed. To restrict a democracy, a "law" enforcement system is needed: police, army, secret agencies, jail authorities. The employes of these organizations aren't working for free. They all benefit from the regime. This is true for both democratic and dictatorial states. 
 In addition, every government relies on the collection of taxes. Corrupted governments also rely on robbing corporate entities and on collecting money via non-profits, for example, churches. 
+Based on the above description, an economic boycott against government agencies and government sources of funding can be effective to stall governmental actions. Economic boycotts can be used for both affecting decision-making in democratic governments and decision-making in dictatorial states.
+When a state is corrupted, it is not easy to know its funding sources. Compared to democracy, dictatorial states do not disclose their sources of revenue. 
+Efective example of an economic boycott can be seen in the Indian self-sufficiency Swadeshi movement against the British Raj (years 1918-1945). The movement, lead by multiple leaders including Mahatma Gandhi, identified sources of revenue that could be affected by boycotts. At that time, United Kingdom benefited in India from revenue of liquor stores, sales of British goods inside India, export of raw materials from India for clothing and then manufacturing actual clothes in Britain, export of raw materials from India, and taxes on basic goods such as on salt. The boycott had a significant impact on the economy of British Raj. In addition, it unified the Indian population against the opresive regime. 
+A more resent example of an economic boycott (year 2021 and on) is a boycott of the military hunta of Myanmar. Residence of Myanmar that are supporters of the democratic regime avoid buying goods and services from the military-owned businesses and organizations.  
+However, economic boycotts against governments can be complicated. Modern governments own a large variety of corporations. Often, the ownership is diguised under figurehead 
 
 
 # On the importance to resist putsches  
