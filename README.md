@@ -85,7 +85,7 @@ It is wrong to assume that democracy is only a political state. Society as a who
 
 ### There are several parts of modern democracy
 
-Freedoms, Rights, Obligations, Duties, Responsabilities
+Freedoms, Rights, Obligations, Duties, Responsibilities
 
 - Freedom of business, enterprenuarship, open any business you want, ability to switch jobs, choose a profession. Such freedoms are important to be able to have productive economy and ability to live a prosperous life as an individual in a democratic society. 
 - The right for ownership: the ability to declare that certain house or business is yours. So that you don't have to share your possessions with others. That in turn implies protection from theft. 
@@ -103,10 +103,10 @@ Freedoms, Rights, Obligations, Duties, Responsabilities
 - Obligation of serving on a jury: Participating in the legal system by serving as a juror when called upon.
 - Obligation to defend the country in times of crisis. In some countries that may include mandatory army service and a military draft in times of war. 
 
-- Responsability to vote, so that the democratic process can work. In some countries voting is mandatory 
+- Responsibility to vote, so that the democratic process can work. In some countries voting is mandatory 
 
 
-Given the above long lists of ffreedoms, democracy is often confused with absolute freedom for everything which is anarchy. Democracy and freedom are not synonyms, but there is a correlation between them. One can try to measure a freedom. For example, the organization Freedom House [created certain criteria](https://freedomhouse.org/report/methodology-freedom-world-2019) to measure freedom in a country. However, it is important to understand that such measurement can’t be considered scientific. Definitions of freedom are subjective and introducing a mathematical index of freedom based on subjective definitions do not make the outcome less subjective. An index of freedom does provide an indication that a country is free only if you agree to the subjective definitions suggested by the Freedom House. Meaning: such definitions may not work for every society that wishes to be democratic, but they may provide good guiding principles for which to strive. 
+Given the above long lists of freedoms, democracy is often confused with absolute freedom for everything which is anarchy. Democracy and freedom are not synonyms, but there is a correlation between them. One can try to measure freedom. For example, the organization Freedom House [created certain criteria](https://freedomhouse.org/report/methodology-freedom-world-2019) to measure freedom in a country. However, it is important to understand that such measurement can’t be considered scientific. Definitions of freedom are subjective and introducing a mathematical index of freedom based on subjective definitions do not make the outcome less subjective. An index of freedom does provide an indication that a country is free only if you agree to the subjective definitions suggested by the Freedom House. Meaning: such definitions may not work for every society that wishes to be democratic, but they may provide good guiding principles for which to strive. 
 
 
 # The vicious cycle of violent society under dictatorship, feudal system, or anarchy 
@@ -488,12 +488,23 @@ However, economic boycotts against governments can be complicated. Modern govern
 How often putsches happen after a regime change? In a very high frequency. In Spain in 1936 and in 1978, in Russia in 1917, Germany Kapp Putsch of 1920 and Beer Hall Putsch 1923 , 1948 in Venezuela, 1991 in USSR/Russia against Gorbachev's reforms. It is worth to note that putsches happen not only against a democratic rule, but can happen against any government when this government is weak. To keep the democracy intact it is important to protect democratic bodies against assassination and violence. Body guarding the democratically-elected politicians is important. So is important the ability to work remotely and distribute the power among officials. So that if some officials are getting hit, there is a smooth power transition to yet another democratic representative to be able to resist putsch attempt. 
 
 Even though the power of the dictatorship governmental bodies should be dismantled, it is important to keep balance in their dismantling. Democracy is based on balance of power. Making too many people that have powerful positions angry will lead to an attempt to remove the democratic governance. The first years of Democracy are unstable due to economic instability and violence inside the population. It is hence advisable to avoid destabilizing the country even further by destroying too many governmental bodies at once. Such a move probably won’t accelerate democracy but instead will result in full blown civil war.
-Coups can also be initiated by foreign countries trying to block democratization. Such countries will invest money or even deploy their own soldiers to try to overthrow the new democratic government. Not surprisingly such foreign countries can be democratic themselves. Politicians may prefer to deal with a stable dictator than with unstable democracy  <!-- Example of what US did to Iran when a democratic government was toppled -->
+Coups can also be initiated by foreign countries trying to block democratization. Such countries will invest money or even deploy their own soldiers to try to overthrow the new democratic government. Not surprisingly such foreign countries can be democratic themselves. Politicians may prefer to deal with a stable dictator than with unstable democracy (a need to add examples of how US toppled democraticly elected govenrments in order to keep dictatorial governments))
 
 There are peaceful ways to block coups: the general population can resist by not providing services to the newly emerged government (see discussion in the book “From dictatorship to democracy”, chapter “Blocking coups”). However, a small portion of the population with weapons can control vast amount of civilians. Hence, if the coup leaders are violent enough, a peaceful resistance is not feasible. For example, in Cambodia, the Khmer Rouge movement forcibly evacuated an entire city of Phnom Penh that had several millions of civilians after taking it over from the Cambodian government. Civilians were forced to a death march where a large percentage of them perished and whoever survived was forced to live in forceful labour camps for years.   
 Based on the above example, when the coup is done by a violent group, the civilians don’t have a choice for peaceful resistance by disobeying the new government and by boycotting its activities. Sometimes there is a need to be organized into active military units that can resist the government. E.g., What Spanish people did during the Spanish civil war. 
 
 
+# Violent resistance
+Many times democratic governance can't be held without resort to violence. 
+Cases can be:
+1. protection of the country from outside enemies. 
+2. law enforcement inside the country against gangsters or opposition
+3. removal of violent dictatorial regime 
+
+## removal of a violent dictatorial regime
+A regime that is killing and jailing coalition members and doesn't allow opposition is dictatorial and violent. It is not always possible to resist such a regime using only non-violent methods. Many individuals can become trapped by activities of a violent regime in situations of life and death. For example, a violent regime may withold food from large amount of population (example: Golodomor in Ukraine). A violent regime may prevent members of opposition from working and hence prevent their ability to sustain their families (Refunisks in USSR). Dictatorial regime may exterminate peaceful oposition 
+It is enough to look into the history of China in years of 1920-1960 to realize that a non-violent resistence was not an option. Various groups be it Chinese Communits, Chinese Nationalists, Chinese warlords, or Japanese soldiers abused the common Chinese population. 
+Many peaceful Chinese citizens were forecefully constripted to war, or were forcefully starved to death, many were raped, tortured, exterminated, brought to slavery, brought to concentration camps, and so on. In total, Chinese internal conflicts, Japanese war, and subsequent Communist regime killed more than 50 million people. 
 
 
 # Election of Dictators
@@ -577,6 +588,7 @@ Case studies:
 Chile and Pinochete’s rule (and his supporters)
 The peace pact between newly established US and the monarchy ruling regime in UK
 How Khruschev got rid of Stalin’s supporters
+What US did in Iraq with the Sadam's army members. 
 
 # On the importance of being united 
 
