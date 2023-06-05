@@ -507,6 +507,10 @@ It is enough to look into the history of China in years of 1920-1960 to realize 
 Many peaceful Chinese citizens were forecefully constripted to war, or were forcefully starved to death, many were raped, tortured, exterminated, brought to slavery, brought to concentration camps, and so on. In total, Chinese internal conflicts, Japanese war, and subsequent Communist regime killed more than 50 million people. 
 
 
+## examples of succesful violent regime changes that have lead to democratization 
+
+
+
 # Election of Dictators
 
 <blockquote>
