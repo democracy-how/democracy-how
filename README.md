@@ -508,7 +508,8 @@ Many peaceful Chinese citizens were forecefully constripted to war, or were forc
 
 
 ## examples of succesful violent regime changes that have lead to democratization 
-Provide example from changes in Portugal for the Carnation revolution of 70s
+Provide example from changes in Portugal for the Carnation revolution of 70s.
+document the details
 
 
 # Election of Dictators
