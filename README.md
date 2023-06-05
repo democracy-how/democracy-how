@@ -508,7 +508,7 @@ Many peaceful Chinese citizens were forecefully constripted to war, or were forc
 
 
 ## examples of succesful violent regime changes that have lead to democratization 
-
+Provide example from changes in Portugal
 
 
 # Election of Dictators
