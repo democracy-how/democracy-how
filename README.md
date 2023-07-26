@@ -1,3 +1,6 @@
+Let's start from a Table of Contents
+
+
 * TOC
 {:toc}
 
@@ -484,6 +487,16 @@ An effective example of an economic boycott can be seen in the Indian self-suffi
 An economic boycott doesn't have to be against a country-level government. Boycotts are effective against local governments and may be easier to organize as they involve less people. For example, Montgomery Bus Boycott. This bus boycott started as protest against segregated seating of African Americans inside buses in the city of Montgomery, Alabama, US. This boycott lasted slightly more than a year. In addition to the boycot, legal actions were taken against the City of Mongomery and the Alabama state to end the segregation on the buses. The boycot, the legal actions and the demostrations related to these activities led to a sustained pressure on the American society to change the local laws.
 A more recent example of an economic boycott (year 2021 and on) is a boycott of the military hunta of Myanmar. Residence of Myanmar that are supporters of the democratic regime avoid buying goods and services from the military-owned businesses and organizations.  
 However, economic boycotts against governments can be complicated. Modern governments own a large variety of corporations. Often, the ownership is diguised under figurehead 
+
+
+# When non-violence doesn't work anymore and what to do next ?
+
+Some regimes become increasingly oppressive. It can happen internally or with a help of another country. For example, the peaceful civil disobidience movement in Belarus was dispersed by Lukashenko's security forces with a help of the Russian FSB. Leaders of the opposition were tortured and killed. Many demostratores were jailed and beatten. After a few months the massive demonstrations were surpressed and oppoosition leaders had to flee the country.
+What to do in such situation for the people that want to continue the struggle? Clearly in this situation non-vilence fails. Now, some may argue that non-violent actions should continue as underground operations of information distribution and financial support. However, these activities will not be able to facilitate a shift in power. They will just help to inform people on the real situation in the country. 
+In such situation the next step is an active disobidience and violence against governmental security forces, police, army, and national guard. Such clash may work or not. It may lead to significant bloodshed. It may lead to an external invation by a violent neighboring country. For example in Ukraine the initially peaceful Maidan demonstrations didn't lead to their original goal of getting rid of the pro-Putin president Yanukovych. Yanukovych refused to continue the process of integrating Ukraine into European Union. Instead he was a corrupted official supported by Putin's Russian regime to stay a Russian ally. Some other goals of the demonstrators included new parliament elections.
+When the peaceful protests failed to achieve these goals, a section of the Ukrainian opposition resorted to more aggressive measures, attacking police and occupying government buildings across the country. These escalated tactics successfully convinced other politicians that they had the backing of the masses, leading them to denounce Yanukovich and proceed with new elections.
+
+
 
 
 # On the importance to resist putsches  
