@@ -527,6 +527,11 @@ Many peaceful Chinese citizens were forecefully constripted to war, or were forc
 Provide example from changes in Portugal for the Carnation revolution of 70s.
 document the details....
 
+## killing of a dictator
+Many times a dictatorship relies on a very succeesful individual that holds the rains. Such person is a dictator. He or she is the only unifying person that glues all the other influential parties and people under one touch point that holds the power. Such single point hence has a very fragile breaking point: a dictator can be killed. When a dictator is killed, then there is no delicate glue that is able to hold all the influential parties under one umbrella. Such a dictatorship will fall apart and transform either into a more broad dictatorial rule under multiple people or will switch to become democratic. 
+The outcome above is that for a single-dictator regimes, it is worth to kill the dictator so that a regie can collapse. 
+
+
 
 # Election of Dictators
 
