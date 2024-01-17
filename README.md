@@ -141,12 +141,12 @@ Distribution of information can be done in many ways: via internet, meetings, un
 # Anarchy and vacuum in power 
 
 In physics when the air is taken out of a volume a new air will come in from the surrounding. Similar to that there is no vacuum in organized power. There are always people energetic-enough  who are organized on street-level, neighborhood level, city-level, province-level and so on. There are always multiple groups of organizations: based on profession, sex, personal interests, politics, sports, religion, and even just pure hate. There are always some kind of organizations that unite people. And the people at the top of these organization are hungry for power. Sometimes because they have antisocial disorder, but sometimes because they feel a need to solve their own problems, in rare cases some of them want to do something good. 
-In cases where central regime fallen, these organizations will start to unite people around them. Eventually several of these organizations will form dominant parties/powers. If these parties are strong enough, they will form a new regime. If one of them particularly strong enough, it will form a dictatorial regime. If non of these parties are strong enough to form a strong federal state control, don’t worry. There are always similar groups from neighboring countries that are willing to invade. And lastl;y if the invasion isn’t implemented, the parties collide against each other into civil unrest and war.
+In cases where central regime fallen, these organizations will start to unite people around them. Eventually several of these organizations will form dominant parties/powers. If these parties are strong enough, they will form a new regime. If one of them particularly strong enough, it will form a dictatorial regime. If non of these parties are strong enough to form a strong federal state control, don’t worry. There are always similar groups from neighboring countries that are willing to invade. And lastly if the invasion isn’t implemented, the parties collide against each other into civil unrest and war.
 
-Example: destabilization of regimes in Iraq and Siriya, and a consequent rise of Islamic State (ISIS). When Sadam’s regime was removed by the invasion of United States and Western Allies and when the allied armies started to exit Iraq, a vacuum of power arose in remote geographical areas in Iraq which allied forces had trouble to control. Conflicts between religious groups resulted in establishment of terror-like organizations that one of them would be come ISIS. Further destabilization of power in the neighbouring Siria allowed ISIS to spread into larger territory and hence control larger population, larger area, and larger income to the organization. 
+Example: destabilization of regimes in Iraq and Siriya, and a consequent rise of Islamic State (ISIS). When Sadam’s regime was removed by the invasion of United States and Western Allies and when the allied armies started to exit Iraq, a vacuum of power arose in remote geographical areas in Iraq which allied forces had trouble to control. Conflicts between religious groups resulted in establishment of terror-like organizations that one of them would become ISIS. Further destabilization of power in the neighbouring Siria allowed ISIS to spread into larger territory and hence control larger population, larger area, and larger income to the organization. 
 
 Example: China after the removal of the imperial regime in 1911: 
-China was very unstable during the times of the last emperor. Foreign powers took control of large chunks of the Chinese land and even if the rest of the land was not controlled by foreign countries, they still influenced the rest of the country economically and through the sale of drugs. The Chinese army was too weak to protect itself from foreign control. Internally, many people were poor; some wanted to modernize the country. Revolts erupted all over the country. 
+China was very unstable during the times of the last emperor. Foreign powers took control of large chunks of the Chinese land and even if the rest of the land was not controlled by foreign countries, they still influenced the rest of the country economically and through the sale of drugs and goods. The Chinese army was too weak to protect itself from foreign control. Internally, many people were poor; some wanted to modernize the country. Revolts erupted all over the Chinese empire. 
 In addition, at the beginning of the 20s century China still dealt with widespread opium cultivation and addiction cultivated by UK on China during the 19s century <!--document the Opium War and so on -->. Large parts of society including educated and reach people consumed the drug; peasants cultivated poppies; merchants used opium as currency; and some local governments used opium for taxation. Large effort by the central government to stop poppy cultivation raised anger among the Chinese public. 
 
 What can an individual do to avoid anarchy and consequent violence?
@@ -270,16 +270,21 @@ https://www.psychologytoday.com/us/blog/the-psychopath-inside/201111/the-mind-di
 
 Suppose tyrants are mainly sociopaths, but the rest of the population, more than 95%, is not sociopathic. So why does the rest of the population follows the lead of tyranny ? 
 
-There are two aspects to discuss here:
+There are a few aspects to discuss here:
 	
-How many men are needed to suppress an existing population into obedience ?
-How long it takes to educate the young generation to get used to the idea that tyranny is the normal way of life 
+- How many men are needed to suppress an existing population into obedience 
+- How ordinary people loose empathy when they are put under stress
+- How long it takes to educate the young generation to get used to the idea that tyranny is the normal way of life 
 
 # How many men are needed to suppress an existing population into obedience ?
 
 
 The answer to this question depends on the technology used and some psychological factor. For example, during the Khmer Rouge regime in Cambodia, entire city populations were forcefully driven out to rural areas. The army that enforced the movement compromised under 10% of the population. In addition, people were lied into believing that they are being moved for a short period of time to reorganize the city. Un-armed population was forced to evacuate, because it didn’t have means to resist. People that refused were executed on spot which in term created further psychological factor for everyone that saw an execution. 
-During its maximum expansion ISIS had 50,000-100,000 soldiers, while it controlled a territory where 8-12 million people lived. A ratio of 1:120.  
+
+Another example: during its maximum expansion ISIS had 50,000-100,000 soldiers, while it controlled a territory where 8-12 million people lived. A ratio of 1:120.  
+
+# How ordinary people loose empathy when they are put under stress
+People in a society can loose empathy to others. Such fenomenon is called empathy fatigue. It happens when life become hard: bad economic times, starvation, plague, war. To feel empathy people need to spend their own energy to associate themselves with the suffering individuals. To care about others means to act and help. However, during stressful times, people just can't afford to loose energy and hence care less about others. Dictators especially love to keep society under stress so that they can execute their own violent policies against any oposition. When a society under stress, people don't have time to think about a jailed opposition figure or opression of minorities.    
 
 # Effects on children 
 
@@ -291,7 +296,7 @@ https://www.cambridge.org/core/journals/psychological-medicine/article/early-mat
 
 
 Dictatorship regimes tend to spend much effort to brainwash the younger generation. What’s better than young hearts that believe in your false ideology without asking questions and executing your most dirty orders without a second thought ?
-It may sound strange, but democratic actions (and science) start from when children pause to disprove their teachers; when children start to understand that morality does not necessarily follow country’s code of law and that some laws even in democratic country can be unethical. The more the young generation pause to think about the society in which they live, the more democratic the country may become. When these children grow up, they may join the army or the police. In these roles young adults should be able to choose to refuse unethical commands by their commanders. Blind followers can build only yet another dictatorship. 
+It may sound strange, but democratic actions (and science) start from when children pause to disprove their teachers; when children start to understand that morality does not necessarily follow country’s code of law and that some laws even in democratic country can be unethical. The more the young generation pause to think about the society in which they live, the more democratic the country may become. When these children grow up, they may join the army or the police. In these roles young adults should be able to choose to refuse unethical commands. Blind followers can build only yet another dictatorship. 
 
 How quickly can education help a society switch from worshiping a dictator to worshiping freedom? 
 There are clear examples in history when such processes happened. Both Nazi Germany and militaristic Japan switched to be pacifistic countries following education reforms. The same way a dictatorship can educate submission in a society within one generation, the same way a democratic government can educate for freedom and equality within one generation.
@@ -589,6 +594,14 @@ Case study: internal troll fabric in Russia, taking over of independent news cha
 
 For democracy to survive it is important to keep economic prosperity among the population. In fact, that's a key factor for the survival of any regime. During transition times from dictatorship to democracy the population needs to adjust to new rules that potentially can quickly change. Instability is not healthy for business. In addition, many times dictatorships  collapse after acquiring much debt and this debt is falling on the shoulders of a new democratic country. During dictatorship many working places and resources may be owned by the government and will go through a privatization process leading to job losses and instability. 
 Investing in environment where entrepreneurship can thrive and where it is protected will help establishing the democratic rule. Otherwise, discontent people will try to bring back the old times where they at least could have a bread on their table.
+
+# Importance of primaries
+
+Often the participation of citizens in democratic elections is limited to elections themselves: reading about candidates and then voting for the appropriate ones during the election date. However, an important part of democratic stability is to vote in primaries and influence inside your favorite party. So that a party that you support isn't being taken over by radicals or hostile institutes. Without a wide participation in primaries a party is exposed to people for which a selection of a candidate is very important. 
+Suppose a small amount of population  participate in primaries. What kind of people will participate? The people for which some political issues are more important than their spare time. 
+When an economy is stable, there is a tendency for most people to skip voting in primaries. Such situation leaves politicians with no choice, but to attend to the wishes of a more dedicated electorate of the party, which is often more radical. For example groups that vote based on a direction of a religious leader will be more willing to spend time on primaries.
+An outcome of unballanced primaries will be radical political leaders from both left and right parties. By the time an election date comes, the voters that skip primaries are limited in their ability to influence the democratic process. 
+
 
 # The useful idiots
 
