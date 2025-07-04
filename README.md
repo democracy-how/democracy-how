@@ -92,25 +92,56 @@ It is wrong to assume that democracy is only a political state. Society as a who
 
 ### There are several parts of modern democracy
 
-Freedoms, Rights, Obligations, Duties, Responsibilities
+Modern democracy comprises several essential components: freedoms, rights, obligations, duties, and responsibilities. These elements work together to create a society that is relatively fair, functional, and prosperous for its citizens.
 
-- Freedom of business, enterprenuarship, open any business you want, ability to switch jobs, choose a profession. Such freedoms are important to be able to have productive economy and ability to live a prosperous life as an individual in a democratic society. 
-- The right for ownership: the ability to declare that certain house or business is yours. So that you don't have to share your possessions with others. That in turn implies protection from theft. 
-- Freedom of speach and expression. So that individuals can exchange information, express thier opinion and raise their voices. This freedom is important to keep truth in the society so that people can exchange true information. This freedom also give the rights to freedom of press and journalism so that corraption, violence, and unlawful activities can be expaused. 
+- Freedom of business and entrepreneurship. Individuals can start, operate, and close any business, choose professions, and switch jobs freely. Such freedoms are important to be able to have productive economy and ability to live a prosperous life as an individual in a democratic society.
+- Freedom of speach and expression. So that individuals can exchange information, express thier opinion and raise their voices. This freedom is important to keep truth in the society so that people can exchange true information. This freedom keeps truth alive in society, allowing the exposure of corruption, violence, and unlawful activities through journalism and free press. In addition, freedom of speech allows progress in science, because science is dependent on exchange of truthful information.
+- Freedom of press and information. Individuals can access, share, and distribute information freely through various media outlets.
+- Freedom of assembly and association. Citizens can gather peacefully, form organizations, unions, or political parties to promote their interests and ideas.
 - Freedom of activity. Ability to do what you want as long as you don't opress other people around you. In a democratic society, individuals are free to make their own choices about how they live their lives, so long as those choices do not infringe upon the rights of others or violate the laws of the land. This freedom of activity is essential for allowing individuals to pursue their own interests, express their individuality, and contribute to the overall prosperity and well-being of society.
-- Freedom of geographical movement: the right to live, work, and travel in any part of a country and to get in/out of its borders. This right directly relates to freedom of activity and freedom of business. 
-- Freedom over your own body and as an outcome: freedom from slavery and forced marriage
-- Right to vote for and elect representatives
-- Right to be elected as an official 
+- Freedom of geographical movement: the right to live, work, and travel in any part of a country and to get in and out of its borders. This right directly relates to freedom of activity and freedom of business. 
+- Freedom over your own body and as an outcome: freedom from slavery and freedom from forced marriage
+- Freedom of religion and belief. Individuals can practice any religion or none at all, free from persecution.
+- Freedom to petition the government. Citizens can seek redress or influence policies through petitions, protests, or appeals.
+- Academic freedom. The right to pursue education and research without ideological restrictions.
 
-- Obligation to obey the law: Following local, state, and national laws.
+- Right of ownership. People can own property and declare certain assets as theirs without being forced to share them, ensuring protection against theft or confiscation.
+- Right to be elected. Run for public office under fair and free conditions.
+- Right to vote. Participate in elections to choose representatives and influence governance.
+- Right to a fair trial. Receive due process under the law, with legal representation and impartial judgment.
+- Right to privacy. Protection from unlawful surveillance, searches, or intrusions.
+- Right to education. Access to primary, secondary, and higher education opportunities. That doesn't mean that the education should be free, but marely the ability to access it even if you pay for it. 
+- Right to access healthcare. That doesn't mean that the healthcare should be free, but marely the ability to access it even if you pay for it.
+- Right to work. Seek employment without discrimination or arbitrary restrictions.
+- Right to equal protection under the law. All individuals are treated equally regardless of their status.
+- Right to peaceful protest. Express dissent publicly and peacefully.
+
+- Obligation to obey the law: Following local, state, and national laws to maintain order in society.
 - Duty to rescue. Individuals have a responsibility to assist someone who is in imminent danger, if it is safe and feasible to do so. 
-- Obligation to report a serious crime, such as murder or child abuse.  
+- Obligation to report a serious crime, such as murder, abuse, or significant threats to society. 
 - Obligation to pay taxes, so that governmental bodies can be sustained and provide services 
 - Obligation of serving on a jury: Participating in the legal system by serving as a juror when called upon.
-- Obligation to defend the country in times of crisis. In some countries that may include mandatory army service and a military draft in times of war. 
+- Obligation to defend the country in times of crisis. In some countries that may include mandatory army service and a military draft in times of war.
+- Obligation to respect others’ rights and freedoms. Ensure your actions do not infringe upon others.
+- Obligation to educate your own children. Ensure that minors under your guardianship receive education as required by law.
 
-- Responsibility to vote, so that the democratic process can work. In some countries voting is mandatory 
+- Duty to rescue. Assist others in imminent danger if it is safe and feasible to do so.
+- Duty of care. Act responsibly to avoid harming others in personal and professional contexts.
+- Duty to testify truthfully. Provide honest testimony when serving as a witness in court.
+- Duty to uphold democratic principles. Support democratic processes, institutions, and governance.
+- Duty to maintain public order. Avoid actions that cause public disorder, violence, or damage.
+- Duty to respect national symbols and heritage. Observe laws related to national flags, anthems, and cultural monuments.
+
+
+Responsibilities (Encouraged Civic Choices)
+- Responsibility to vote, so that the democratic process can work. In some countries voting is a mandatory obligation.
+- Responsibility to stay informed. Understand political, economic, and social issues to make informed decisions as a citizen.
+- Responsibility to participate in community life. Engage in civic activities, volunteering, and local initiatives to strengthen society.
+- Responsibility to respect diversity. Promote tolerance, inclusion, and understanding within the community.
+- Responsibility to protect the environment. Act sustainably to reduce ecological impact and preserve resources for future generations.
+- Responsibility to promote peace and non-violence. Resolve conflicts peacefully and encourage harmonious living.
+- Responsibility to raise law-abiding and educated children. Prepare the next generation to be responsible citizens.
+- Responsibility to support the vulnerable. Help those in need within your abilities and resources.
 
 
 Given the above long lists of freedoms, democracy is often confused with absolute freedom to do anything which is anarchy. Democracy and freedom are not synonyms, but there is a correlation between them. One can try to measure freedom. For example, the organization Freedom House [created certain criteria](https://freedomhouse.org/report/methodology-freedom-world-2019) to measure freedom in a country. However, it is important to understand that such measurement can’t be considered scientific. Definitions of freedom are subjective and introducing a mathematical index of freedom based on subjective definitions do not make the outcome less subjective. An index of freedom does provide an indication that a country is free only if you agree to the subjective definitions suggested by the Freedom House. Meaning: such definitions may not work for every society that wishes to be democratic, but they may provide good guiding principles for which to strive. 
