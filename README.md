@@ -147,15 +147,36 @@ Responsibilities (Encouraged Civic Choices)
 Given the above long lists of freedoms, democracy is often confused with absolute freedom to do anything which is anarchy. Democracy and freedom are not synonyms, but there is a correlation between them. One can try to measure freedom. For example, the organization Freedom House [created certain criteria](https://freedomhouse.org/report/methodology-freedom-world-2019) to measure freedom in a country. However, it is important to understand that such measurement can’t be considered scientific. Definitions of freedom are subjective and introducing a mathematical index of freedom based on subjective definitions do not make the outcome less subjective. An index of freedom does provide an indication that a country is free only if you agree to the subjective definitions suggested by the Freedom House. Meaning: such definitions may not work for every society that wishes to be democratic, but they may provide good guiding principles for which to strive. 
 
 
+# Democracy Within You
+
+Democracy begins with the individual.
+If you care about democracy, start by looking inward, into your values, your conscience, your goals. What kind of person do you want to be? What kind of society do you want to live in?
+
+If you live in a dictatorship, democracy will not arrive without your involvement.
+If you live in a democracy, it cannot survive without it.
+
+Freedom is not something granted from above. It starts within the individual. When a person is free, intellectually, morally, and civically, that freedom can spread outward to family, friends, colleagues, neighbors, and communities.
+
+Democracy cannot exist without participation. It requires educated people and active people, all people who live under it. Many countries call themselves democracies, yet remain deeply corrupted. They may function democratically at the top, while individuals within them are disengaged, fearful, or unfree. Democracy is not magic. It is work.
+
+When individuals stop working on democracy, it weakens, declines, and eventually degrades.
+
+In every city there are criminals, corrupt politicians, foreign agents, extremists, and ideologues who dedicate themselves to undermining democratic society. They work on this every day. The real question is what are you doing to stop it? What can you do?
+
+There is no leader who can magically fix a country without the active involvement of its people. Democracy cannot be outsourced. If you do not brush your teeth, no one else will do it for you. If you do not invest effort into democracy within your own social circle, no one will replace you.
+
+Imagine a strong democratic leader trying to bring change. How would they gain support, funding, legitimacy, or momentum without people like you? Democratic leaders do not emerge in isolation. They grow through networks of engaged individuals who choose to participate.
+
+Democracy lives or dies inside each of us first.
+
 # The vicious cycle of violent society under dictatorship, feudal system, or anarchy 
 
-Dictators and party members around them tend to be sociopaths. They drive the country to violence which in terms brings destruction to business and agriculture
-In a country with no jobs and no food people survive by being more violent: fighting for jobs and food, stealing, looting
+Dictators and party members around them tend to be sociopaths. They drive the country to violence which in terms brings destruction to business and agriculture.
+In a country with no jobs and no food people survive by being more violent: fighting for jobs and food, stealing, looting.
 Good to review examples of what happened in China after the fall of the empire. For example, many peasants joined the ranks of the communistic army of Mao Tse Tung because they needed food and protection from a brutal violence of warlords. (need citations of how the Red Army under Mao increased from several thousands to become huge army). Similar thing happened in Cambodia when peasants joined Khmer Rouge army to 
 Young men tend to join military/police to be in charge of resource distribution
 In poor countries no money spent on family planning and hence many young kids are born
 Concentration of many young men with low unemployment leads to violence on the street
-
 
 
 
