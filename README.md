@@ -191,11 +191,9 @@ Colombia's "La Violencia" and later cartel era: In the late 1940s–50s, Liberal
 Mexico (2000s–present): Cartels have assassinated mayoral and local candidates by the dozens in election cycles, especially in contested territories, effectively vetting who can hold local office in affected regions.
 Sri Lanka's civil war era: The LTTE assassinated moderate Tamil politicians who favored negotiation, eliminating the middle ground and leaving only hardline positions represented.
 Iraq post-2003: Militias and insurgent groups assassinated secular or moderate candidates and their family members, pushing many electoral lists toward sectarian hardliners who had armed protection.
-Philippines (various periods, especially Mindanao): Local political clans have used private armies to intimidate or kill rival candidates ahead of elections (e.g., the 2009 Maguindanao massacre, in which a rival clan's convoy — including family members and journalists — was killed to prevent a gubernatorial challenge).
+Philippines (various periods, especially Mindanao): Local political clans have used private armies to intimidate or kill rival candidates ahead of elections (for example, the 2009 Maguindanao massacre, in which a radical islamists clan attacked a rival clan's convoy — including killing family members and journalists — to prevent a gubernatorial challenge).
 
 ## Supporting candidates: emotional backing and safety funding
-
-This fits naturally as the "what can an individual do" counterpart to the chapter — the antidote to the intimidation pattern.
 
 ### Emotional and social support
 
@@ -209,7 +207,7 @@ Protect their family life deliberately. Avoid tagging or geolocating candidates'
 
 Community-funded security co-ops. Local supporter groups can pool small recurring donations (not large individual sums, which raise influence-peddling concerns) specifically earmarked for security — better lighting, a panic button system, or an escort for evening events.
 Volunteer "surgery marshals." Trained, unpaid volunteers who greet visitors, watch entrances, and de-escalate at constituency events — many UK local parties do this informally now.
-Advocate for public funding, not private patronage. Push local and national government for standardized, non-partisan security budgets for all candidates (already expanded in the UK post-Amess) — this is safer than any single donor or group funding one candidate's protection, which can create dependency or perceived debts.
+Advocate for public funding, not private patronage. Push local and national government for standardized, non-partisan security budgets for all candidates (already expanded in the UK post-Amess assassination) — this is safer than any single donor or group funding one candidate's protection, which can create dependency or perceived debts.
 Legal defense funds. Support pooled funds that cover the costs of restraining orders or prosecuting threats, since many candidates don't report threats simply because pursuing them is expensive and slow.
 Data-hygiene help. Volunteers can help candidates lock down their home address, property records, and family members' social media — much stalking and threat escalation starts from easily found personal information.
 
